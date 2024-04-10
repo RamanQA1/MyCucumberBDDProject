@@ -9,4 +9,15 @@ public void sky() {
 	
 }
 
+public void moon() {
+	
+	System.out.println("helloo moon");
+	
+	System.out.println("helloo every one");
+	
+	System.out.println("helloo sunn");
+	
+	
+}
+
 }
